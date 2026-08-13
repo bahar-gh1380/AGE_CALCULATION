@@ -66,10 +66,6 @@ The basic calculation is:
 Age = Current Year - Birth Year
 ```
 
-The application then checks whether the user's birthday has already occurred during the current year and adjusts the result when necessary.
-
----
-
 ## 🛠️ Technology Stack
 
 | Technology   | Purpose                          |
